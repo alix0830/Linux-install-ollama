@@ -7,7 +7,7 @@
 
 2.下载本项目内的install_ollama.sh
 
-3.从https://github.com/ollama/ollama/releases中下载ollama-linux-amd64.tar.zst
+3.从https://github.com/ollama/ollama/releases 中下载ollama-linux-amd64.tar.zst
 
 4.创建目录（文件夹）
 
@@ -24,3 +24,5 @@
 10.在命令行中输入ollama，验证是否成功部署
 
 第一次做这个，欢迎提交反馈！
+
+有任何意见或建议，或是对AI感兴趣欢迎来matrix群交流：https://matrix.to/#/!jhPczeHCfYUWDHTmhs:matrix.org?via=matrix.org
